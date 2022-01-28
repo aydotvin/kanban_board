@@ -1,3 +1,5 @@
+# Kanban board with drag and drop support.
+
 # Get started with the following commands.
 
 -   npm install
