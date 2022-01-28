@@ -1,4 +1,4 @@
-# Kanban board with drag and drop support.
+**Kanban board with drag and drop support.**
 
 # Get started with the following commands.
 
