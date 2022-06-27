@@ -91,7 +91,7 @@ const lang = {
 			email: "Email",
 			password: "Password",
 			contact: "Contact Number",
-			profilePicture: "Contact Number",
+			profilePicture: "Profile Picture",
 			haveAccountHelpText: "Already have an account?",
 		},
 	},
